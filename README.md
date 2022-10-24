@@ -52,4 +52,4 @@ Hi, I'm Anmol Wadhwa🙌, a Web Developer & UI/UX Enthusiast. Apart from that I 
 
 ![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=anmolwadhwaxx&show_icons=true&hide_border=true)
 
-<a href=#><img src="https://raw.githubusercontent.com/anmolwadhwaxx/Github-Snake/snake.svg"></a>
+<a href=#><img src="https://raw.githubusercontent.com/anmolwadhwaxx/anmolwadhwaxx/deda191d8faa317e1087ba3e16bee98b6b9b29ea/snake.svg"></a>
