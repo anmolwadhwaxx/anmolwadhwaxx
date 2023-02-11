@@ -19,6 +19,13 @@
 
 <br />
 
+<img alt="GIF" src="https://media.giphy.com/media/AYMKkDwavwA9Y72Frn/giphy.gif"/>
+![Anshul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anshulforyou&show_icons=true)
+-->
+![](https://komarev.com/ghpvc/?username=anmolwadhwaxx&label=PROFILE+VIEWS&color=blue&style=plastic)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anmolwadhwaxx&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 Hi, I'm Anmol Wadhwa🙌, a Web Developer & UI/UX Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
 
