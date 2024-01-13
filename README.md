@@ -1,4 +1,4 @@
-### [Connect with me 💬](https://algocs.in) 
+### [Connect with me 💬](https://www.linkedin.com/in/anmol-wadhwa/) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anmolwadhwaxx.anmolwadhwaxx)
 
 ### Hello World 👋 It's [Anmol Wadhwa!](https://www.linkedin.com/in/anmol-wadhwa/)
