@@ -6,13 +6,13 @@
 <br/>
 
 
-<a href="https://twitter.com/anmolwadhwaxx">
+<a href="https://twitter.com/anmolwadhwaxyz">
 <img align="left" alt="Anmol Wadhwa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/anmol-wadhwa/">
 <img align="left" alt="Anmol Wadhwa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/anmolwadhwaxx/">
+<a href="https://www.instagram.com/anmol.was.here/">
 <img align="left" alt="Anmol Wadhwa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCMV86A1foFt7l0l4HrTYzaA">
